@@ -1,2 +1,1 @@
-# goose-demo
-goose MCP demo
+this was written by goose
